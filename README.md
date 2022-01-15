@@ -2,7 +2,9 @@
   <img src="banner1.png"/>
 </p>
 
-### Hi there 👋
+### Musab Shaikh
+
+An eager lerner and passionate web developer. Building a user friendly experience with customized designs is what i always aim for.
 
 <!--
 **MusabShk/MusabShk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
