@@ -4,7 +4,7 @@
 
 # Musab Shaikh
 
-An eager lerner and passionate web developer. Building a user friendly experience with customized designs is what i always aim for.
+An eager lerner and passionate web developer. Building a user friendly experience with customized designs is what i always aim for. I also play a role of a digital media creator  
 
 ### Skills and experience
 
@@ -14,8 +14,11 @@ An eager lerner and passionate web developer. Building a user friendly experienc
 * MongoDb
 * Firebase
 * Nodejs
-* Figma
+* Figma 
+* UI, UX and design
+* Digital content
 * Adobe apps
+
 
 <!--
 **MusabShk/MusabShk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
