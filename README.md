@@ -2,7 +2,7 @@
   <img src="banner1.png"/>
 </p>
 
-### Musab Shaikh
+# Musab Shaikh
 
 An eager lerner and passionate web developer. Building a user friendly experience with customized designs is what i always aim for.
 
