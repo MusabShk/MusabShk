@@ -4,7 +4,7 @@
 
 # Musab Shaikh
 
-An eager lerner and passionate web developer. Building a user friendly experience with customized designs is what i always aim for. I also play a role of a digital media creator  
+An eager learner and passionate web developer. Building a user friendly experience with customized designs is what i always aim for. I also play a role of a digital media creator  
 
 ### Skills and experience
 
